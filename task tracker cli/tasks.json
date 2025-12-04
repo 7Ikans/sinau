@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "description": "ajar backend",
+    "status": "todo",
+    "createdAt": "2025-12-04T13:58:48.274Z"
+  },
+  {
+    "id": 2,
+    "description": "garap inggris",
+    "status": "done",
+    "createdAt": "2025-12-04T13:59:13.784Z"
+  }
+]
